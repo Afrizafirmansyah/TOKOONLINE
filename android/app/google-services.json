@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "67304856943",
-    "project_id": "dahar-flutter",
-    "storage_bucket": "dahar-flutter.appspot.com"
+    "project_number": "244393819335",
+    "project_id": "dahar-flutter-1e02e",
+    "storage_bucket": "dahar-flutter-1e02e.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:67304856943:android:270c641638d75e58255c9a",
+        "mobilesdk_app_id": "1:244393819335:android:3f131ca19c405e1c7c12e2",
         "android_client_info": {
           "package_name": "com.example.dahar"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "67304856943-jj7er05k6su2m6faj0spqa1ssoshdhjb.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBqAV3Df0UCKk9s0UPfIWHKIUQzIqNQaZo"
+          "current_key": "AIzaSyD09drpLhlMtvC_BuuG4ktCquCEnCcCzWQ"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "67304856943-jj7er05k6su2m6faj0spqa1ssoshdhjb.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
